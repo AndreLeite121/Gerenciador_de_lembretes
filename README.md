@@ -1,8 +1,39 @@
-# React + Vite
+# Aplicativo de Lembretes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um aplicativo de lembretes simples desenvolvido com React. Ele permite aos usuários criar, visualizar e excluir lembretes, organizados por data.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Adicionar lembretes com nome e data futura.
+- Visualizar uma lista de lembretes ordenados por data.
+- Remover lembretes ou apenas os nomes associados a um lembrete.
+
+## Como Usar
+
+1. Clone este repositório para o seu ambiente local.
+2. Navegue até o diretório do projeto.
+3. Execute `npm install` para instalar as dependências.
+4. Execute `npm run dev` para iniciar o servidor de desenvolvimento.
+5. Acesse `http://localhost:****` em seu navegador para visualizar o aplicativo.
+
+## Tecnologias Utilizadas
+
+- React
+- JavaScript
+- CSS (utilizando Styled Components)
+
+## Estrutura do Projeto
+
+- `src/`
+  - `components/`: Contém os componentes React utilizados no aplicativo.
+  - `styles/`: Contém os estilos CSS (utilizando Styled Components) para os componentes.
+  - `App.js`: O componente principal do aplicativo.
+  - `index.js`: O ponto de entrada do aplicativo.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para reportar problemas ou sugerir melhorias. Se desejar contribuir diretamente, por favor, abra um Pull Request.
+
+## Autor
+
+André Leite - andreribeiro139@gmail.com
