@@ -30,10 +30,6 @@ Este é um aplicativo de lembretes simples desenvolvido com React. Ele permite a
   - `App.js`: O componente principal do aplicativo.
   - `index.js`: O ponto de entrada do aplicativo.
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para reportar problemas ou sugerir melhorias. Se desejar contribuir diretamente, por favor, abra um Pull Request.
-
 ## Autor
 
 André Leite - andreribeiro139@gmail.com
